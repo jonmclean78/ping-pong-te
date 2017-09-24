@@ -22,6 +22,8 @@ HOWEVER, after a week or so of attempting to build a working app with React, rea
 
 Therefore, I resorted to Plan B: html, css, & javascript/jquery
 
+A live view of the site can be viewed at: [jon.developme.training](http://jon.developme.training/)
+
 ## What's missing
 
 While the app fulfils the basic brief, there are many things missing from this version which I would have liked to include.  The following is by no means an exhaustive list!
