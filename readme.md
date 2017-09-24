@@ -22,7 +22,7 @@ HOWEVER, after a week or so of attempting to build a working app with React, rea
 
 Therefore, I resorted to Plan B: html, css, & javascript/jquery
 
-A live view of the site can be viewed at: [jon.developme.training](http://jon.developme.training/)
+A live view of the app can be viewed at: [jon.developme.training](http://jon.developme.training/).  (Looks good on mobile too!)
 
 ## What's missing
 
