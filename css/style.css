@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,700i');
+
+@font-face {
+	font-family: 'Arvo';
+	font-weight: normal;
+}
+
+html, body {
+	font-family: 'Arvo', serif;
+	background-color: black;
+	color: white;
+}
+
+h1 {
+	font-weight: 700;
+	font-style: italic;
+	font-size: 100px;
+}
+
+p {
+	font-size: 1.4em;
+	}
+}
+
+footer {
+	font-size: 8px;
+}
+
+.col-md-4 {
+	border-right: 2px dashed white;
+}
+
+.btn-primary {
+	color: black;
+	font-style: bold;
+    background-color: yellow;
+    border-color: yellow;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: red;
+    border-color: red;
+}
+
+#page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 2px dashed white;
+}
+
+#players {
+	padding: 5px;
+	border: 1px solid white;
+}
+
+#playText {
+	color: yellow;
+}
